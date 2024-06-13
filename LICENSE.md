@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Water Quality Monitoring System**
 
-- 🌱 I’m currently Studying **Master of Science in Data Science**
+- 🌱 I’m currently studying **Master of Science in Data Science**
 
 - 💬 Ask me about **Data Science, Python, ML**
 
