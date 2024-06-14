@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently studying **Master of Science in Data Science**
 
-- 💬 Ask me about **Data Science, Python, ML**
+- 💬 Ask me about **Data Science, Python, Machine Learning**
 
 - 📫 How to reach me **sri1999deepthi@gmail.com**
 
