@@ -5,6 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SKPVenkataSDeepthi&label=Profile%20views&color=0e75b6&style=flat" alt="SKPVenkataSDeepthi" /> </p>
 
+# 💫 About Me :
+- 😄 Pronouns: She/ Her
+  
 - 🔭 I’m currently working on **Water Quality Monitoring System**
 
 - 🌱 I’m currently studying **Master of Science in Data Science**
@@ -42,8 +45,17 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SKPVenkataSDeepthi&show_icons=true&locale=en&layout=compact" alt="SKPVenkataSDeepthi" /></p>
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKPVenkataSDeepthi&theme=vue"/>
+</p>
 
+## 📟 GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SKPVenkataSDeepthi&show_icons=true&locale=en" alt="SKPVenkataSDeepthi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SKPVenkataSDeepthi&" alt="SKPVenkataSDeepthi" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SKPVenkataSDeepthi&show_icons=true&locale=en&layout=compact" alt="SKPVenkataSDeepthi" /></p>
+
+
+
