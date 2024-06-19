@@ -45,17 +45,28 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKPVenkataSDeepthi&theme=vue"/>
-</p>
+## GitHub Profile Summary Card
+<details>
+  <summary>Click to expand!</summary>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKPVenkataSDeepthi&theme=vue"/>
+  </p>
+</details>
 
-## 📟 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SKPVenkataSDeepthi&show_icons=true&locale=en" alt="SKPVenkataSDeepthi" /></p>
+## GitHub Stats
+<details>
+  <summary>Click to expand!</summary>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SKPVenkataSDeepthi&show_icons=true&locale=en" alt="SKPVenkataSDeepthi" />
+  </p>
+  <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SKPVenkataSDeepthi&" alt="SKPVenkataSDeepthi" />
+  </p>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SKPVenkataSDeepthi&show_icons=true&locale=en&layout=compact" alt="SKPVenkataSDeepthi" />
+  </p>
+</details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SKPVenkataSDeepthi&" alt="SKPVenkataSDeepthi" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SKPVenkataSDeepthi&show_icons=true&locale=en&layout=compact" alt="SKPVenkataSDeepthi" /></p>
 
 
 
