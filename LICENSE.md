@@ -8,7 +8,7 @@
 # 💫 About Me :
 - 😄 Pronouns: She/ Her
   
-- 🔭 I’m currently working on **Water Quality Monitoring System**
+- 🔭 I’m currently working on **projects based on Machine Learning.**
 
 - 🌱 I’m currently studying **Master of Science in Data Science**
 
