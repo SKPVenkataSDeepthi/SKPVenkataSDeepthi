@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/c7299fe2075350401286e4c7b7f5221162fbd6ccfb34bc63b93319acf1093406/68747470733a2f2f6d656469612e67726170686173736574732e636f6d2f694f48566b775a4a53524f4f394c616670486958)
+![MasterHead](https://media.graphassets.com/iOHVkwZJSROO9LafpHiX)
 <h1 align="center">Hi 👋, I'm Venkata Sri Deepthi SriKotaPeetambaram</h1>
 <h3 align="center">Passionate about driving insights from data.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif">
