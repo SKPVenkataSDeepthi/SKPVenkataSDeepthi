@@ -1,20 +1,17 @@
 ![MasterHead](https://media.graphassets.com/iOHVkwZJSROO9LafpHiX)
 <h1 align="center">Hi 👋, I'm Venkata Sri Deepthi SriKotaPeetambaram</h1>
-<h3 align="center">Passionate about driving insights from data.</h3>
+<h3 align="center">Exploring the World of Data Science, Machine Learning, and AI 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SKPVenkataSDeepthi&label=Profile%20views&color=0e75b6&style=flat" alt="SKPVenkataSDeepthi" /> </p>
 
-# 💫 About Me :
-- 😄 Pronouns: She/ Her
-  
-- 🔭 I’m currently working on **projects based on Machine Learning.**
+Welcome to my corner of the data universe! 🌌 As a passionate data science enthusiast, I love transforming data into meaningful insights and building impactful machine learning models. My research and work span across **Data Science**, **Machine Learning**, and **Artificial Intelligence**—with a focus on solving real-world challenges.
 
-- 🌱 I’m currently studying **Master of Science in Data Science**
-
-- 💬 Ask me about **Data Science, Python, Machine Learning**
-
-- 📫 How to reach me **sri1999deepthi@gmail.com**
+# 💫 About Me : 
+- 🎓 **Graduate**: Master's in Data Science, University of Texas, Arlington
+- 🔬 **Research Interests**: Machine Learning, Data Science, Artificial Intelligence
+- 📊 **Passion**: From data wrangling to building predictive models, I enjoy every step of the data science journey!
+- ✈️ **Hobbies**: Aviation, arts, crafts, and all things creative
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
