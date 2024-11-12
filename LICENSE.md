@@ -55,7 +55,7 @@ I'm always open to connecting with fellow data enthusiasts, whether you’re a b
 </p>
 
 
-## GitHub Profile Summary Card
+## 📈 GitHub Profile Summary Card
 <details>
   <summary>Click to expand!</summary>
   <p align="center">
@@ -63,7 +63,7 @@ I'm always open to connecting with fellow data enthusiasts, whether you’re a b
   </p>
 </details>
 
-## GitHub Stats
+## 📉 GitHub Stats
 <details>
   <summary>Click to expand!</summary>
   <p align="center">
