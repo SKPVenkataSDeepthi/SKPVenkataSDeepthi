@@ -17,7 +17,7 @@ Welcome to my corner of the data universe! 🌌 As a passionate data science ent
 ## 👨‍💻 Let's Connect!
 I'm always open to connecting with fellow data enthusiasts, whether you’re a beginner or an expert! Let's exchange knowledge, discuss cool projects, or just chat about the latest trends in AI.
 <p align="left">
-<a href="https://www.linkedin.com/in/venkatasrideepthiskp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venkatasrideepthiskp/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dvskp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venkatasrideepthiskp/" height="30" width="40" /></a>
 <a href="https://www.salesforce.com/trailblazer/deepthiskp" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="https://www.salesforce.com/trailblazer/deepthiskp" height="30" width="40" /></a>
 <a href="https://github.com/SKPVenkataSDeepthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/SKPVenkataSDeepthi" height="30" width="40" /></a>
 </p>
