@@ -8,7 +8,7 @@
 Welcome to my corner of the data universe! 🌌 As a passionate data science enthusiast, I love transforming data into meaningful insights and building impactful machine learning models. My research and work span across **Data Science**, **Machine Learning**, and **Artificial Intelligence**—with a focus on solving real-world challenges.
 
 # 💫 About Me : 
-- 🎓 **Graduate**: Master's in Data Science, University of Texas, Arlington
+- 🎓 **Graduate**: Master of Science in Data Science, University of Texas, Arlington
 - 🔬 **Research Interests**: Machine Learning, Data Science, Artificial Intelligence
 - 🤖 **Passion**: I’m driven by leveraging data science, machine learning, and AI to develop innovative solutions and make data-driven decisions.
 - 🎨 **Hobbies**: Aviation, arts, crafts, and all things creative.
