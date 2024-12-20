@@ -69,13 +69,12 @@ I'm always open to connecting with fellow data enthusiasts, whether you’re a b
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SKPVenkataSDeepthi&show_icons=true&locale=en" alt="SKPVenkataSDeepthi" />
   </p>
-  <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SKPVenkataSDeepthi&" alt="SKPVenkataSDeepthi" />
-  </p>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SKPVenkataSDeepthi" alt="GitHub Streak" /></a>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SKPVenkataSDeepthi&show_icons=true&locale=en&layout=compact" alt="SKPVenkataSDeepthi" />
   </p>
 </details>
+
 
 
 <p align="center"> Thank-you for visiting my GitHub profile! 🌟 </p>
